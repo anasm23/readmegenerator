@@ -44,6 +44,12 @@ const questions = [
         message: "Test instruction",
         name: 'Test'
     },
+    {
+        type: "input",
+        message: "Questions",
+        name: 'question'
+    },
+
 ];
 
 // function to write README file

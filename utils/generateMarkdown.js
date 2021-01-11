@@ -22,6 +22,9 @@ function generateMarkdown(data) {
 
   ## BADGE
 
+  ## QUESTIONS
+  ${data.question}
+
 `;
 }
 
