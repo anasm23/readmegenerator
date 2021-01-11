@@ -1,22 +1,22 @@
-# Sample readme
+# Sample Readme
 
   # DESCRIPTION
-  random
+  sample text
 
   # TABLE OF CONTENTS
-  ok
+  sample text
 
   # INSTALLATION
-  none
+  sample text
 
   # USAGE
-  anyone
+  sample text
 
   # CONTRIBUTION
-  just me
+  sample text
 
   # TEST
-  none
+  sample text
 
   ## BADGE
 
